@@ -1,7 +1,7 @@
-# ansien website
+# Ansien Website
 
 This project consists of:
-* ansien website built with react.js
+* Ansien website built with react.js
 
 ## Description:
 
